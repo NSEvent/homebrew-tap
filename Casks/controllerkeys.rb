@@ -1,6 +1,6 @@
 cask "controllerkeys" do
-  version "2.6.2"
-  sha256 "5c983f5b89830960dc0375a450c97e11e40af08c8d4815bd1e140be93eb12f68"
+  version "2.6.3"
+  sha256 "588ce4a9c493cc3ece3beda8b0476f4d884e4a423b5e49c2c7102fe3a7266b1f"
 
   url "https://github.com/NSEvent/xbox-controller-mapper/releases/download/v#{version}/ControllerKeys-#{version}.dmg",
       verified: "github.com/NSEvent/xbox-controller-mapper/"
