@@ -2,8 +2,7 @@ cask "controllerkeys" do
   version "2.7.3"
   sha256 "96f38d85101c9d7ab22b3c294791f359c35b1a30e0369e1f5bce01dd387562f6"
 
-  url "https://github.com/NSEvent/xbox-controller-mapper/releases/download/v#{version}/ControllerKeys-#{version}.dmg",
-      verified: "github.com/NSEvent/xbox-controller-mapper/"
+  url "https://github.com/NSEvent/xbox-controller-mapper/releases/download/v#{version}/ControllerKeys-#{version}.dmg"
   name "ControllerKeys"
   desc "Maps game controllers to keyboard, mouse, scrolling, and macros"
   homepage "https://www.kevintang.xyz/apps/controller-keys"
